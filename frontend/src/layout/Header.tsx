@@ -9,7 +9,7 @@ export default function Header() {
       <Separator orientation="vertical" className="mr-2" />
 
       <div className="flex items-center gap-2">
-        <img src="/logo-light.svg" alt="Logo" className="size-6" />
+        <img src="/logo.svg" alt="Logo" className="size-6" />
         <div className="mb-0.5 text-2xl font-semibold">Echo.</div>
       </div>
     </header>

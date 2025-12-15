@@ -185,7 +185,7 @@ const SignUp = () => {
         className="hidden h-full w-full flex-col items-end justify-between gap-4 bg-neutral-800/30 px-10 py-20 md:flex lg:px-20 xl:px-40"
       >
         <div className="flex w-fit items-center gap-2 text-right">
-          <img src="/logo-light.svg" alt="Logo" className="size-10" />
+          <img src="/logo.svg" alt="Logo" className="size-10" />
           <h1 className="text-3xl font-semibold">Echo.</h1>
         </div>
 

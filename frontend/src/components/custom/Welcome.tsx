@@ -41,7 +41,7 @@ function WelcomeComponent() {
 
   return (
     <div className="flex flex-col items-center gap-2">
-      <img src="/logo-light.svg" alt="Logo" className="size-40" />
+      <img src="/logo.svg" alt="Logo" className="size-40" />
       <h1 className="text-3xl font-semibold">Echo.</h1>
       <p className="max-w-[38ch] text-justify text-zinc-500">
         "Welcome back! Ready to dive into your conversations? Connect with friends, share moments,
